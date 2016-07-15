@@ -322,3 +322,9 @@ footer {
     color:#444;
   }
 }
+
+.schemas {
+  padding: 15px 15px 0 15px;
+  border: 1px solid #D3D3D3;
+  border-radius: 15px;
+}
