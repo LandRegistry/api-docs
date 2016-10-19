@@ -323,7 +323,7 @@ footer {
   }
 }
 
-.schemas .api-designer {
+.schemas, .api-designer {
   padding-top: 15px;
   border-top: 1px solid #D3D3D3;
 }
